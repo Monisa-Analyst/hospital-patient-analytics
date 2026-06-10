@@ -2,7 +2,8 @@
 
 An end-to-end data analytics and business intelligence platform designed to ingest, validate, and analyze patient admissions and hospital operational records. CareMetrics bridges raw data engineering (SQL star schemas, Python ETL) with visual storytelling (multi-page Streamlit dashboards, Plotly charts) to deliver actionable operational insights.
 
-👉 **[Live Web Application Link](https://caremetrics.streamlit.app/)** *(Configured for instant Streamlit Cloud deployment)*
+👉 **[Live Web Application Link](https://hospital-patient-analytics-g3y9adygc34e9aesbusvec.streamlit.app)** *(Configured for instant Streamlit Cloud deployment)*
+
 
 ---
 
