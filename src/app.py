@@ -172,7 +172,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style='text-align: center; color: #8c9ba5; font-size: 0.85rem;'>
     Developed by <b>Monisa L.</b><br>
-    Data Analyst Portfolio Project
+    Clinical Operations & Quality Dashboard
 </div>
 """, unsafe_allow_html=True)
 
@@ -304,8 +304,8 @@ if menu == "📊 Executive Summary":
         
     st.markdown("---")
     
-    # Business Insights section (Recruiter Highlight)
-    st.subheader("💡 Strategic Health Insights (Auto-Generated)")
+    # Business Insights section
+    st.subheader("💡 Clinical & Operational Insights")
     
     col_ins1, col_ins2 = st.columns(2)
     with col_ins1:
