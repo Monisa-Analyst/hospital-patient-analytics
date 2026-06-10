@@ -1,0 +1,201 @@
+Patient ID,Patient Name,Age,Gender,Blood Type,Medical Condition,Admission Date,Discharge Date,Billing Amount,Hospital Department,Admission Type,Test Results
+PT-10001,Lisa Gonzalez,29,Male,A-,Pneumonia,2025-03-30,2025-03-28,6872.58,Emergency,Urgent,Inconclusive
+PT-10002,Jennifer Martin,44,Other,A-,Hypertension,2026-02-02,2026-02-05,1809.44,General Practice,Elective,Inconclusive
+PT-10003,Elizabeth Jackson,51,Other,O-,Appendicitis,2025-11-20,2025-11-25,7320.61,Surgery,Urgent,Normal
+PT-10004,Betty Miller,52,Male,AB-,Bone Fracture,2025-07-22,2025-07-28,7088.1,Orthopedics,Emergency,Abnormal
+PT-10005,William Miller,66,Other,AB-,Arthritis,2025-07-01,2025-07-03,1937.06,Orthopedics,Emergency,Normal
+PT-10006,Donald Perez,61,Female,O-,Pneumonia,2025-11-14,2025-11-17,5402.65,Emergency,Emergency,Inconclusive
+PT-10007,Lisa Miller,59,Other,A-,Appendicitis,2025-09-21,2025-09-26,10450.54,Surgery,Emergency,Abnormal
+PT-10008,Donald Johnson,4,Other,AB+,Stroke,2025-04-09,2025-04-17,16892.96,Pediatrics,Emergency,Abnormal
+PT-10009,Linda Miller,76,Female,A-,Diabetes,2025-05-01,2025-05-05,4171.9,Endocrinology,Emergency,Inconclusive
+PT-10010,Charles Smith,59,Female,A-,Leukemia,2026-02-13,2026-03-05,36913.14,Oncology,Elective,Abnormal
+PT-10011,Anthony Lopez,67,Male,B-,Leukemia,2026-03-31,2026-04-17,29309.86,Oncology,Urgent,Normal
+PT-10012,Sarah Brown,76,Male,A-,Leukemia,2025-10-31,2025-11-24,36521.09,Oncology,Emergency,Abnormal
+PT-10013,Anthony Rodriguez,9,Other,B-,Appendicitis,2025-05-11,2025-05-15,8723.69,Pediatrics,Urgent,Inconclusive
+PT-10014,David Martinez,46,Male,AB+,Hypertension,2025-07-22,2025-07-24,1503.23,General Practice,Elective,Inconclusive
+PT-10015,Charles Miller,66,Other,B+,Leukemia,2025-08-25,2025-09-17,37897.08,Oncology,Elective,Inconclusive
+PT-10016,Lisa Smith,17,Male,O+,Bone Fracture,2025-11-14,2025-11-21,8784.9,Orthopedics,Emergency,Inconclusive
+PT-10017,Mark Miller,44,Female,B+,Asthma,2025-01-22,2025-01-23,3157.97,Emergency,Emergency,Inconclusive
+PT-10018,John Johnson,41,Other,B+,Asthma,2025-04-13,2025-04-17,3098.06,Emergency,Emergency,Abnormal
+PT-10019,Margaret Hernandez,4,Female,AB+,Leukemia,2025-07-03,2025-07-24,29052.35,Pediatrics,Urgent,Inconclusive
+PT-10020,Matthew Garcia,86,Other,AB-,Pneumonia,2025-03-18,2025-03-24,7392.96,Emergency,Urgent,Normal
+PT-10021,Elizabeth Hernandez,60,Female,O+,Arthritis,2025-10-09,2025-10-10,2332.94,Orthopedics,Elective,Abnormal
+PT-10022,David Jones,59,Female,O+,Heart Attack,2025-12-17,2025-12-30,15674.67,Cardiology,Elective,Normal
+PT-10023,Mark Johnson,82,Male,A-,Stroke,2026-05-12,2026-05-21,18205.21,Neurology,Urgent,Abnormal
+PT-10024,Robert Moore,91,Male,B-,Bone Fracture,2025-03-25,2025-04-01,7883.62,Orthopedics,Urgent,Normal
+PT-10025,William Jones,58,Other,AB+,Pneumonia,2025-12-29,2026-01-04,6437.46,Emergency,Urgent,Normal
+PT-10026,Karen Harris,10,Other,AB+,Asthma,2025-11-11,2025-11-13,3223.56,Pediatrics,Urgent,Inconclusive
+PT-10027,James Davis,24,Male,AB-,Arthritis,2025-03-24,2025-03-26,2775.43,Orthopedics,Emergency,Abnormal
+PT-10028,Nancy Rodriguez,20,Other,AB+,Heart Attack,2025-11-04,2025-11-11,14045.6,Cardiology,Emergency,Abnormal
+PT-10029,Charles Martinez,13,Male,O+,Hypertension,2025-06-17,2025-06-20,2162.67,General Practice,Urgent,Abnormal
+PT-10030,John Gonzalez,95,Male,A+,Heart Attack,2025-10-23,2025-11-03,16793.25,Cardiology,Urgent,Normal
+PT-10031,Elizabeth Taylor,21,Male,A-,Diabetes,2025-06-17,2025-06-23,4287.91,Endocrinology,Emergency,Inconclusive
+PT-10032,Mary Miller,5,Other,B+,Heart Attack,2025-09-18,2025-09-25,17398.16,Pediatrics,Emergency,Inconclusive
+PT-10033,John Taylor,46,Male,A+,Arthritis,2025-08-27,2025-08-30,2484.67,Orthopedics,Elective,Inconclusive
+PT-10034,Jennifer Lopez,70,Other,AB-,Asthma,2025-04-13,2025-04-17,3364.23,Emergency,Emergency,Normal
+PT-10035,Donald White,67,Other,B+,Pneumonia,2025-03-21,2025-03-27,5501.26,Emergency,Emergency,Inconclusive
+PT-10036,Anthony Gonzalez,60,Male,B+,Hypertension,2025-12-09,2025-12-11,1641.82,General Practice,Urgent,Normal
+PT-10037,John Wilson,6,Male,B+,Pneumonia,2025-10-02,2025-10-09,5075.34,Pediatrics,Emergency,Inconclusive
+PT-10038,Nancy Brown,42,Male,B+,Bone Fracture,2025-09-24,2025-09-27,6607.18,Orthopedics,Emergency,Abnormal
+PT-10039,Joseph Jones,80,Male,B-,Hypertension,2026-01-20,2026-01-21,1753.74,General Practice,Emergency,Normal
+PT-10040,Mary Garcia,39,Other,B+,Stroke,2025-01-01,2025-01-14,17375.67,Neurology,Elective,Normal
+PT-10041,Nancy Thomas,42,Other,B+,Hypertension,2025-12-20,2025-12-21,1554.95,General Practice,Emergency,Normal
+PT-10042,John Davis,24,Female,B+,Arthritis,2025-09-06,2025-09-08,2342.26,Orthopedics,Elective,Inconclusive
+PT-10043,Mary Martin,60,Female,O-,Heart Attack,2025-10-17,2025-10-29,19534.25,Cardiology,Urgent,Abnormal
+PT-10044,Betty Harris,33,Other,O-,Diabetes,2026-02-12,2026-02-15,3786.24,Endocrinology,Elective,Abnormal
+PT-10045,Sandra Hernandez,61,Other,O+,Heart Attack,2025-03-27,2025-04-11,15222.75,Cardiology,Elective,Normal
+PT-10046,Betty Perez,93,Male,O+,Stroke,2025-11-25,2025-12-05,17733.1,Neurology,Urgent,Normal
+PT-10047,James Wilson,74,Male,A+,Diabetes,2025-07-01,2025-07-08,5080.74,Endocrinology,Elective,Normal
+PT-10048,Anthony Gonzalez,60,Female,B+,Diabetes,2025-06-12,2025-06-16,5255.22,Endocrinology,Emergency,Inconclusive
+PT-10049,Robert Rodriguez,26,Female,AB-,Asthma,2026-05-29,2026-06-01,3485.58,Emergency,Elective,Inconclusive
+PT-10050,Thomas Lee,36,Male,A-,Hypertension,2025-05-12,2025-05-15,1822.47,General Practice,Elective,Inconclusive
+PT-10051,Robert Davis,135,Other,O+,Hypertension,2026-02-14,2026-02-17,2245.07,General Practice,Emergency,Abnormal
+PT-10052,Jennifer Wilson,23,Male,A-,Stroke,2025-09-05,2025-09-16,17775.0,Neurology,Emergency,Inconclusive
+PT-10053,Thomas Thompson,53,Other,A-,Stroke,2025-04-25,2025-05-07,16426.28,Neurology,Emergency,Abnormal
+PT-10054,Lisa Hernandez,84,Other,B+,Appendicitis,2025-12-24,2025-12-27,8242.43,Surgery,Emergency,Inconclusive
+PT-10055,Christopher Thompson,70,Male,AB+,Appendicitis,2025-06-17,2025-06-21,9229.53,Surgery,Urgent,Inconclusive
+PT-10056,Sarah Smith,11,Male,A+,Leukemia,2025-02-16,2025-02-28,31675.09,Oncology,Urgent,Abnormal
+PT-10057,Nancy Garcia,62,Other,B+,Heart Attack,2025-12-18,2025-12-29,15139.97,Cardiology,Emergency,Normal
+PT-10058,Elizabeth Lee,12,Female,AB+,Hypertension,2026-01-22,2026-01-24,1578.82,Pediatrics,Elective,Normal
+PT-10059,Robert Rodriguez,56,Female,AB+,Hypertension,2025-08-31,2025-09-03,1743.17,General Practice,Urgent,Abnormal
+PT-10060,Jessica Wilson,64,Other,A+,Diabetes,2025-01-28,2025-02-03,5115.7,Endocrinology,Elective,Normal
+PT-10061,Susan Wilson,64,Female,B+,Leukemia,2026-01-29,2026-02-10,35926.83,Oncology,Elective,Normal
+PT-10062,Sandra Davis,22,Female,B+,Asthma,2025-02-08,2025-02-10,2867.17,Emergency,Emergency,Abnormal
+PT-10063,William Lee,78,Other,O+,Stroke,2025-01-16,2025-02-05,19344.94,Neurology,Urgent,Normal
+PT-10064,Mark Miller,85,Female,O+,Asthma,2025-02-15,2025-02-20,3025.21,Emergency,Urgent,Abnormal
+PT-10065,Elizabeth Jones,91,Female,B+,Arthritis,2025-01-22,2025-01-23,2051.59,Orthopedics,Urgent,Normal
+PT-10066,Susan Jackson,41,Female,A+,Diabetes,2025-12-23,2025-12-30,6031.8,Endocrinology,Urgent,Normal
+PT-10067,Karen Jackson,90,Male,AB+,Diabetes,2025-07-01,2025-07-07,4608.12,Endocrinology,Emergency,Abnormal
+PT-10068,Anthony White,94,Female,AB-,Heart Attack,2025-06-26,2025-07-01,18017.7,Cardiology,Emergency,Normal
+PT-10069,Mary Garcia,70,Female,B+,Hypertension,2026-02-07,2026-02-09,1800.82,General Practice,Elective,Abnormal
+PT-10070,David Smith,47,Female,B+,Appendicitis,2025-11-23,2025-11-26,8160.94,Surgery,Emergency,Inconclusive
+PT-10071,Patricia Taylor,55,Male,AB-,Asthma,2026-05-28,2026-05-29,3141.72,Emergency,Elective,Abnormal
+PT-10072,Betty Moore,31,Other,O-,Stroke,2025-08-18,2025-09-04,23779.81,Neurology,Elective,Normal
+PT-10073,Susan Thompson,32,Female,O-,Pneumonia,2025-03-02,2025-03-05,4665.39,Emergency,Elective,Abnormal
+PT-10074,Barbara White,84,Female,O+,Pneumonia,2026-03-15,2026-03-24,6147.64,Emergency,Urgent,Normal
+PT-10075,Linda Thomas,64,Female,AB-,Appendicitis,2025-07-07,2025-07-12,9896.52,Surgery,Elective,Inconclusive
+PT-10076,Sarah Moore,47,Male,AB-,Heart Attack,2026-04-11,2026-04-19,14109.79,Cardiology,Elective,Normal
+PT-10077,Matthew Wilson,76,Male,A-,Pneumonia,2025-05-05,2025-05-14,7728.99,Emergency,Emergency,Normal
+PT-10078,William Jackson,64,Male,B+,Heart Attack,2025-12-21,2025-12-26,19936.33,Cardiology,Emergency,Normal
+PT-10079,Richard Davis,69,Male,O+,Pneumonia,2026-04-18,2026-04-25,6240.67,Emergency,Elective,Abnormal
+PT-10080,Karen Davis,46,Male,A+,Arthritis,2025-02-12,2025-02-14,2698.42,Orthopedics,Elective,Abnormal
+PT-10081,Nancy Hernandez,48,Female,B+,Appendicitis,2026-05-22,2026-05-24,8578.11,Surgery,Elective,Inconclusive
+PT-10082,Jennifer Hernandez,0,Female,B-,Heart Attack,2025-06-29,2025-07-09,16192.07,Pediatrics,Urgent,Abnormal
+PT-10083,Christopher White,72,Female,A+,Arthritis,2025-08-25,2025-08-28,2885.18,Orthopedics,Urgent,Normal
+PT-10084,Jennifer Perez,23,Other,A-,Stroke,2025-12-19,2026-01-01,24108.59,Neurology,Emergency,Normal
+PT-10085,Patricia Jones,91,Female,A+,Heart Attack,2025-12-16,2025-12-26,14930.01,Cardiology,Elective,Abnormal
+PT-10086,Elizabeth Garcia,93,Other,O+,Heart Attack,2025-06-08,2025-06-13,15039.0,Cardiology,Elective,Abnormal
+PT-10087,Linda Johnson,11,Other,B+,Asthma,2025-11-19,2025-11-21,2377.99,Pediatrics,Emergency,Inconclusive
+PT-10088,Jennifer Moore,55,Other,A-,Hypertension,2026-05-17,2026-05-19,1769.88,General Practice,Urgent,Normal
+PT-10089,Barbara Wilson,85,Female,AB+,Asthma,2026-04-03,2026-04-05,3410.84,Emergency,Elective,Inconclusive
+PT-10090,John Thompson,39,Female,A-,Stroke,2025-02-09,2025-02-18,16031.78,Neurology,Emergency,Abnormal
+PT-10091,Betty Smith,5,Male,A-,Stroke,2025-05-07,2025-05-15,16219.75,Pediatrics,Elective,Abnormal
+PT-10092,Nancy Garcia,21,Female,A+,Appendicitis,2025-07-20,2025-07-25,8432.58,Surgery,Emergency,Abnormal
+PT-10093,Elizabeth Thompson,37,Other,O+,Asthma,2025-07-25,2025-07-26,2794.03,Emergency,Elective,Inconclusive
+PT-10094,Susan Martin,35,Other,AB+,Asthma,2025-05-07,2025-05-08,2354.3,Emergency,Emergency,Normal
+PT-10095,Richard Jones,45,Male,B+,Stroke,2025-09-05,2025-09-15,23398.24,Neurology,Urgent,Normal
+PT-10096,Mark Perez,95,Female,B+,Bone Fracture,2026-03-28,2026-03-31,6928.89,Orthopedics,Urgent,Abnormal
+PT-10097,Daniel Harris,33,Other,O-,Pneumonia,2025-03-11,2025-03-15,5028.46,Emergency,Emergency,Inconclusive
+PT-10098,William Taylor,74,Male,B+,Leukemia,2025-07-10,2025-07-31,37845.22,Oncology,Urgent,Normal
+PT-10099,Robert Martin,50,Other,B+,Hypertension,2025-05-16,2025-05-17,1822.62,General Practice,Elective,Abnormal
+PT-10100,Margaret Garcia,33,Male,B+,Diabetes,2025-08-16,2025-08-22,5114.27,Endocrinology,Emergency,Inconclusive
+PT-10101,Donald Thompson,86,Female,B+,Appendicitis,2025-06-27,2025-06-25,10550.85,Surgery,Elective,Normal
+PT-10102,Margaret Rodriguez,11,Male,AB+,Pneumonia,2025-10-06,2025-10-10,4947.58,Pediatrics,Urgent,Inconclusive
+PT-10103,Elizabeth Moore,27,Male,O-,Appendicitis,2025-04-18,2025-04-23,8369.98,Surgery,Urgent,Abnormal
+PT-10104,Sandra Smith,85,Other,B-,Asthma,2025-12-20,2025-12-23,2578.51,Emergency,Urgent,Normal
+PT-10105,Elizabeth Garcia,74,Other,A-,Asthma,2026-05-04,2026-05-05,2536.26,Emergency,Elective,Inconclusive
+PT-10106,Margaret Rodriguez,59,Male,A-,Arthritis,2025-03-30,2025-03-31,2131.55,Orthopedics,Urgent,Abnormal
+PT-10107,Linda Miller,75,Male,O-,Stroke,2025-12-06,2025-12-25,21643.9,Neurology,Emergency,Inconclusive
+PT-10108,Robert Williams,50,Female,AB-,Asthma,2025-12-05,2025-12-10,3289.68,Emergency,Urgent,Inconclusive
+PT-10109,Christopher White,26,Other,A-,Pneumonia,2026-02-22,2026-03-04,6704.78,Emergency,Elective,Inconclusive
+PT-10110,Matthew Lopez,16,Male,A-,Appendicitis,2025-01-22,2025-01-27,9861.98,Surgery,Elective,Inconclusive
+PT-10111,Patricia Perez,23,Female,AB+,Appendicitis,2025-01-19,2025-01-22,7749.99,Surgery,Emergency,Inconclusive
+PT-10112,Matthew Garcia,7,Female,AB+,Hypertension,2025-03-07,2025-03-10,2225.81,Pediatrics,Emergency,Normal
+PT-10113,Anthony Moore,26,Male,B-,Bone Fracture,2025-11-25,2025-11-28,6058.7,Orthopedics,Emergency,Normal
+PT-10114,Donald Martinez,43,Other,A+,Heart Attack,2025-03-17,2025-03-31,17945.74,Cardiology,Urgent,Inconclusive
+PT-10115,Christopher Taylor,85,Male,O+,Appendicitis,2025-07-10,2025-07-13,10293.92,Surgery,Urgent,Abnormal
+PT-10116,Karen Johnson,35,Other,AB-,Arthritis,2026-02-10,2026-02-11,1951.7,Orthopedics,Emergency,Abnormal
+PT-10117,Linda Miller,48,Female,O-,Appendicitis,2026-05-28,2026-05-30,8507.34,Surgery,Urgent,Inconclusive
+PT-10118,Linda Johnson,65,Female,A-,Asthma,2025-09-18,2025-09-20,3100.08,Emergency,Emergency,Abnormal
+PT-10119,Jessica Lopez,30,Female,AB-,Arthritis,2025-11-14,2025-11-15,2266.17,Orthopedics,Urgent,Inconclusive
+PT-10120,Patricia Perez,26,Female,O+,Heart Attack,2025-05-16,2025-05-27,17496.15,Cardiology,Elective,Inconclusive
+PT-10121,Betty Harris,41,Male,O-,Hypertension,2025-06-18,2025-06-21,2326.12,General Practice,Emergency,Normal
+PT-10122,Daniel Gonzalez,9,Female,A+,Stroke,2025-09-08,2025-09-25,17435.22,Pediatrics,Emergency,Inconclusive
+PT-10123,Betty Taylor,16,Male,AB-,Asthma,2025-06-08,2025-06-10,3322.83,Emergency,Elective,Inconclusive
+PT-10124,Michael Hernandez,72,Female,O-,Asthma,2026-05-18,2026-05-20,2729.71,Emergency,Urgent,Inconclusive
+PT-10125,Jessica Harris,25,Other,O+,Pneumonia,2025-02-10,2025-02-14,6790.18,Emergency,Elective,Inconclusive
+PT-10126,Mark Taylor,55,Other,AB+,Appendicitis,2025-06-30,2025-07-03,8843.99,Surgery,Elective,Abnormal
+PT-10127,Mark Brown,1,Female,AB+,Diabetes,2025-09-03,2025-09-07,4408.65,Pediatrics,Emergency,Inconclusive
+PT-10128,Patricia Williams,54,Female,A-,Pneumonia,2025-08-21,2025-08-30,7733.48,Emergency,Emergency,Normal
+PT-10129,John White,76,Male,AB+,Appendicitis,2025-09-22,2025-09-26,7770.5,Surgery,Emergency,Abnormal
+PT-10130,Susan White,73,Other,A-,Stroke,2025-12-11,2025-12-18,15465.91,Neurology,Emergency,Normal
+PT-10131,Patricia Perez,32,Other,O-,Arthritis,2025-09-13,2025-09-16,2491.58,Orthopedics,Urgent,Abnormal
+PT-10132,William Rodriguez,46,Female,AB+,Appendicitis,2025-09-25,2025-09-29,8962.86,Surgery,Urgent,Inconclusive
+PT-10133,Joseph White,53,Male,B-,Asthma,2026-03-05,2026-03-08,2999.45,Emergency,Elective,Abnormal
+PT-10134,Sarah Lopez,29,Female,O-,Diabetes,2025-02-21,2025-02-25,5711.89,Endocrinology,Urgent,Inconclusive
+PT-10135,Richard Harris,25,Female,A+,Leukemia,2025-04-09,2025-05-03,34316.93,Oncology,Emergency,Normal
+PT-10136,Mary Moore,52,Other,A-,Heart Attack,2025-04-20,2025-04-25,15120.17,Cardiology,Urgent,Normal
+PT-10137,Sarah Davis,77,Other,AB+,Stroke,2025-04-10,2025-04-18,19745.75,Neurology,Emergency,Inconclusive
+PT-10138,Richard Perez,65,Other,A-,Hypertension,2025-06-03,2025-06-05,1639.15,General Practice,Emergency,Abnormal
+PT-10139,Karen Rodriguez,6,Other,B-,Diabetes,2026-02-20,2026-02-27,4628.61,Pediatrics,Elective,Inconclusive
+PT-10140,Jennifer Jackson,24,Female,O+,Appendicitis,2025-04-18,2025-04-22,7554.88,Surgery,Elective,Abnormal
+PT-10141,Daniel Williams,48,Female,AB+,Hypertension,2026-04-07,2026-04-10,2218.98,General Practice,Elective,Normal
+PT-10142,Donald Rodriguez,3,Other,A+,Appendicitis,2025-10-29,2025-11-01,10044.34,Pediatrics,Elective,Normal
+PT-10143,James Martin,58,Male,O-,Arthritis,2025-01-07,2025-01-08,2175.35,Orthopedics,Elective,Inconclusive
+PT-10144,Christopher Perez,52,Other,A+,Appendicitis,2025-05-08,2025-05-13,8959.13,Surgery,Emergency,Inconclusive
+PT-10145,Patricia Thomas,8,Male,O-,Heart Attack,2026-02-08,2026-02-15,13290.7,Pediatrics,Elective,Normal
+PT-10146,Joseph Lee,50,Other,B+,Arthritis,2025-05-04,2025-05-07,2760.43,Orthopedics,Emergency,Abnormal
+PT-10147,William Lopez,56,Female,AB-,Arthritis,2025-07-05,2025-07-09,2297.11,Orthopedics,Emergency,Abnormal
+PT-10148,Jessica Garcia,85,Female,A-,Hypertension,2025-11-30,2025-12-01,1476.57,General Practice,Emergency,Inconclusive
+PT-10149,Matthew Johnson,17,Other,O-,Bone Fracture,2025-11-18,2025-11-25,7641.57,Orthopedics,Emergency,Normal
+PT-10150,Linda Lopez,29,Female,O-,Stroke,2025-05-19,2025-06-06,23011.79,Neurology,Urgent,Abnormal
+PT-10151,Richard Perez,135,Female,O+,Pneumonia,2025-06-08,2025-06-17,6107.29,Emergency,Elective,Normal
+PT-10152,Lisa Moore,67,Other,AB+,Leukemia,2026-02-03,2026-02-19,26406.34,Oncology,Elective,Abnormal
+PT-10153,Anthony Taylor,62,Male,B-,Leukemia,2025-01-06,2025-01-19,28411.55,Oncology,Urgent,Inconclusive
+PT-10154,Susan Martin,48,Other,AB+,Heart Attack,2025-11-11,2025-11-19,18468.72,Cardiology,Emergency,Normal
+PT-10155,Elizabeth Johnson,56,Female,A-,Diabetes,2026-02-22,2026-02-25,4563.03,Endocrinology,Emergency,Inconclusive
+PT-10156,Elizabeth Wilson,6,Female,B-,Asthma,2026-03-19,2026-03-22,3077.02,Pediatrics,Emergency,Inconclusive
+PT-10157,Linda Jones,74,Female,B+,Stroke,2025-09-05,2025-09-22,19311.37,Neurology,Urgent,Normal
+PT-10158,Susan Gonzalez,23,Female,A-,Bone Fracture,2026-04-21,2026-04-24,5581.0,Orthopedics,Urgent,Inconclusive
+PT-10159,Mark Williams,69,Other,B-,Hypertension,2026-04-11,2026-04-12,1415.29,General Practice,Emergency,Abnormal
+PT-10160,Christopher Smith,84,Female,A-,Leukemia,2025-09-13,2025-10-07,31868.73,Oncology,Emergency,Abnormal
+PT-10161,Robert Jones,4,Female,B-,Arthritis,2025-12-19,2025-12-20,2093.66,Pediatrics,Emergency,Normal
+PT-10162,James Johnson,44,Male,AB+,Appendicitis,2025-07-15,2025-07-19,9795.77,Surgery,Urgent,Inconclusive
+PT-10163,Charles Harris,3,Male,AB-,Appendicitis,2025-11-20,2025-11-22,9264.84,Pediatrics,Elective,Normal
+PT-10164,Sarah Lopez,83,Female,A-,Diabetes,2026-03-07,2026-03-11,3829.36,Endocrinology,Elective,Abnormal
+PT-10165,Lisa Gonzalez,6,Female,AB-,Stroke,2025-11-19,2025-12-02,22534.67,Neurology,Elective,Normal
+PT-10166,Daniel Lopez,20,Male,O+,Arthritis,2025-11-28,2025-11-30,2303.67,Orthopedics,Elective,Normal
+PT-10167,Daniel Rodriguez,8,Male,B+,Arthritis,2025-09-24,2025-09-28,2317.36,Pediatrics,Elective,Normal
+PT-10168,Lisa Moore,4,Other,O+,Hypertension,2026-05-18,2026-05-19,1432.62,Pediatrics,Emergency,Inconclusive
+PT-10169,Elizabeth Jackson,73,Other,O-,Heart Attack,2025-04-09,2025-04-19,15862.62,Cardiology,Urgent,Normal
+PT-10170,Barbara Martinez,93,Male,B+,Appendicitis,2025-02-01,2025-02-04,10070.37,Surgery,Emergency,Inconclusive
+PT-10171,Linda Williams,20,Other,A-,Stroke,2026-03-07,2026-03-14,20269.45,Neurology,Elective,Abnormal
+PT-10172,Mary Thomas,3,Male,AB-,Stroke,2026-05-13,2026-05-23,23230.73,Pediatrics,Elective,Normal
+PT-10173,Linda Moore,74,Other,A-,Pneumonia,2026-05-10,2026-05-20,6765.34,Emergency,Emergency,Inconclusive
+PT-10174,Elizabeth Jackson,91,Male,A-,Hypertension,2026-03-02,2026-03-04,2147.74,General Practice,Urgent,Normal
+PT-10175,Elizabeth Smith,79,Male,B-,Pneumonia,2026-01-19,2026-01-27,7084.54,Emergency,Urgent,Inconclusive
+PT-10176,James Garcia,30,Other,B-,Asthma,2025-04-14,2025-04-16,2796.04,Emergency,Elective,Abnormal
+PT-10177,Karen Martinez,34,Female,AB-,Bone Fracture,2025-12-14,2025-12-21,8403.3,Orthopedics,Urgent,Normal
+PT-10178,Joseph Rodriguez,83,Male,AB-,Diabetes,2026-02-16,2026-02-21,3967.27,Endocrinology,Emergency,Abnormal
+PT-10179,Joseph Wilson,87,Other,B+,Hypertension,2026-02-19,2026-02-21,2217.06,General Practice,Elective,Inconclusive
+PT-10180,Daniel Jones,27,Other,AB+,Bone Fracture,2026-04-24,2026-04-30,7264.63,Orthopedics,Emergency,Abnormal
+PT-10181,Elizabeth Garcia,74,Male,O+,Leukemia,2026-02-20,2026-03-22,38012.2,Oncology,Urgent,Inconclusive
+PT-10182,Mark Taylor,87,Male,A+,Diabetes,2025-03-13,2025-03-19,5206.53,Endocrinology,Emergency,Abnormal
+PT-10183,Thomas Lopez,31,Other,A+,Leukemia,2025-09-10,2025-10-08,38774.67,Oncology,Elective,Abnormal
+PT-10184,Mark Jackson,67,Other,O-,Stroke,2026-02-25,2026-03-16,24382.64,Neurology,Elective,Abnormal
+PT-10185,Charles Jones,10,Male,O+,Diabetes,2025-11-19,2025-11-22,3687.34,Pediatrics,Elective,Inconclusive
+PT-10186,Nancy Garcia,87,Male,A+,Stroke,2026-01-31,2026-02-13,23697.32,Neurology,Emergency,Inconclusive
+PT-10187,Jennifer Thomas,14,Other,B+,Bone Fracture,2025-10-17,2025-10-24,8456.54,Orthopedics,Urgent,Inconclusive
+PT-10188,Anthony Wilson,45,Male,O-,Pneumonia,2026-04-18,2026-04-22,5147.96,Emergency,Urgent,Normal
+PT-10189,Daniel Martinez,86,Other,A+,Diabetes,2025-08-27,2025-09-02,5065.5,Endocrinology,Elective,Normal
+PT-10190,Jessica Davis,3,Other,A+,Leukemia,2025-04-16,2025-05-02,31226.88,Pediatrics,Urgent,Abnormal
+PT-10191,John Moore,23,Male,A+,Stroke,2025-08-05,2025-08-14,18129.04,Neurology,Urgent,Abnormal
+PT-10192,Christopher Johnson,35,Female,AB-,Pneumonia,2026-05-25,2026-05-30,6179.56,Emergency,Elective,Inconclusive
+PT-10193,Betty Harris,87,Other,O-,Pneumonia,2025-08-31,2025-09-10,6236.12,Emergency,Urgent,Inconclusive
+PT-10194,Charles Moore,95,Female,O+,Appendicitis,2025-07-22,2025-07-24,8942.76,Surgery,Emergency,Normal
+PT-10195,Mary Brown,30,Female,AB-,Stroke,2025-03-06,2025-03-14,16547.94,Neurology,Elective,Inconclusive
+PT-10196,Jessica Rodriguez,75,Female,AB+,Bone Fracture,2025-09-18,2025-09-25,7687.76,Orthopedics,Elective,Abnormal
+PT-10197,John Johnson,17,Female,AB+,Arthritis,2025-04-02,2025-04-06,2825.97,Orthopedics,Urgent,Inconclusive
+PT-10198,William Miller,90,Other,O-,Asthma,2026-03-05,2026-03-10,2868.6,Emergency,Urgent,Abnormal
+PT-10199,Daniel Lopez,26,Male,A+,Stroke,2026-01-10,2026-01-18,22839.58,Neurology,Urgent,Abnormal
+PT-10200,Nancy Thompson,90,Female,B-,Bone Fracture,2025-07-26,2025-07-31,7552.54,Orthopedics,Emergency,Abnormal
